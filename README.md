@@ -10,6 +10,12 @@ This repo is the official implementation of the paper:
 - Offical implementation based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) codebase and [CAGroup3D](https://github.com/Haiyang-W/CAGroup3D) detector is released.
 - UMD is accpeted at CVPR 2025.
 
+## We Are Hiring :fire::fire:
+Prof. [Zhao Na](https://na-z.github.io/) is hiring self-motivated PhD students with strong 3D vision research experiences. 
+Please send your English resume, transcripts, together with a research proposal in English stating your interested research topic in 3D computer vision, to *na_zhao@sutd.edu.sg*. 
+
+The email title should be: **[Target Position (PhD/Postdoc/Visiting) Application] Your Name + Institution Name + Qualification (Bachelor/Master/PhD)**
+
 ## Introduction
 This paper presents the first solution to apply active learning in indoor 3D object detection, utilizing both uncertainty and diversity as selection criteria. For uncertainty, we design a two-pronged epistemic uncertainty estimation strategy to address inaccurate detections and undetected objects, which first assesses uncertainty separately for each case, then integrates them into a unified criterion. For diversity, we frame the diverse sample selection problem as an optimization task that jointly maximizes scene-type diversity and intra-class variances, leveraging a novel Class-aware Adaptive Prototype (CAP) bank. 
 
